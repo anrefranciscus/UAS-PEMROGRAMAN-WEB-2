@@ -13,7 +13,8 @@ KELOMPOK 5
 6. WAHYU NUR ALAM
 
 PENJELASAN FITUR DAN FUNGSI DARI TIAP FILE PHP WEBSITE RESTORAN MAKANAN
-
+untuk forgot password tidak bisa digunakan,
+yang bisa digunakan login dan register atau daftar
 indexlogin.php
 - berisi form untuk login
 - berisi link untuk daftar akun apabila belum mempunyai akun
