@@ -20,7 +20,7 @@ indexlogin.php
 - berisi link untuk daftar akun apabila belum mempunyai akun
 
 daftar.php 
-- berisi form untu daftar akun login
+- berisi form untuk daftar akun login
 
 prosesdaftar.php
 - include "koneksilogin" berfungsi untuk menghubungkan koneksi ke database login
